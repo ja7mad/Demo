@@ -9,6 +9,7 @@ namespace ConsoleApplication1
     {
         // my first comment
         // my first change under a branch
+        // change in master
         static void Main(string[] args)
         {
         }
