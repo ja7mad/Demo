@@ -7,6 +7,7 @@ namespace ConsoleApplication1
 {
     class Program
     {
+        // my first comment
         static void Main(string[] args)
         {
         }
