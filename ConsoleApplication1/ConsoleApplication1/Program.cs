@@ -9,6 +9,7 @@ namespace ConsoleApplication1
     {
         // my first comment
         // my first change under a branch
+        // a conflict waiting to happen in branch
         static void Main(string[] args)
         {
         }
